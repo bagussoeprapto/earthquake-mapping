@@ -115,5 +115,3 @@ legend.onAdd = function() {
 
 // Adding legend to the map
 legend.addTo(myMap);
-
-  
